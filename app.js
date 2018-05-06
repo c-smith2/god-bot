@@ -8,4 +8,4 @@ client.on("ready", () => {
   client.user.setPresence({game:{name:'Sanraj sleep ;)',type:3}});
 });
 
-client.login(process.env.NDQyMzUxOTA2MTQ5NjI5OTUy.Dc9mkg.fWCJJCnL9-U8kkDx-RW6QNjFvkQ);
+client.login(process.env.NDQyMzUxOTA2MTQ5NjI5OTUy.Dc_iZQ.9cNKFhmldxTU_oxwQjHBFJreN1c);
