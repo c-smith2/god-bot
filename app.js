@@ -5,7 +5,7 @@ client.on("ready", () => {
   
   console.log("Bot Launched...")
   client.user.setStatus('Online')
-  client.user.setPresence({game:{name:'Game of Thrones Audiobook',type:2}});
+  client.user.setPresence({game:{name:'some kid have a seizure',type:3}});
 });
 
 client.login(process.env.BOT_TOKEN);
